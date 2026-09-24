@@ -1,0 +1,6 @@
+{
+  "name": "HGW Panamá - Productos de Salud, Bienestar y Catálogo Oficial",
+  "description": "Tienda y catálogo interactivo de productos naturales HGW Panamá por Yamilka Batista. Suplementos, cafés saludables, turmalina, limpieza de colon y pedidos directos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
